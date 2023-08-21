@@ -14,12 +14,12 @@
     }
 
     .sidebar {
-        width: 50px; /* Adjust the width for icons-only sidebar */
+        width: 50px; 
     }
 
     .logoHeader {
-        margin-top: 10px; /* Adjust the margin for the logo */
-        margin-bottom: 5px; /* Adjust the margin for the logo */
-        width: 40px; /* Adjust the size of the logo */
+        margin-top: 10px; 
+        margin-bottom: 5px; 
+        width: 40px; 
     }
 }
